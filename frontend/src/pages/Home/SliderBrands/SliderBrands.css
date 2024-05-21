@@ -1,0 +1,28 @@
+.brands-carousel {
+    margin: 0 250px;
+}
+
+.brands-wrapper {
+    margin-top: 12px;
+    margin-bottom: 20px;
+}
+
+.brands-wrapper-title {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.brands-wrapper .ant-carousel .slick-dots li button {
+    background: #000000;
+    opacity: 0.4;
+}
+
+.brands-wrapper .ant-carousel .slick-dots li.slick-active button {
+    opacity: 1;
+    background: #000000;
+}
+
+.brands-wrapper .ant-carousel .slick-dots-bottom {
+    bottom: -10px;
+}
